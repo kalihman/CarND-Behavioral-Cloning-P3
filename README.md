@@ -18,7 +18,7 @@ Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/4
 My project includes the following files:
 
 - **model.py** : Contains the script to create and train the model and generate model.h5 file.
-- **drive.py** : For driving the car in autonomous mode in the simulator (This is provided [Udacity](https://github.com/udacity/CarND-Behavioral-Cloning-P3/blob/master/drive.py).
+- **drive.py** : For driving the car in autonomous mode in the simulator (This is provided [Udacity](https://github.com/udacity/CarND-Behavioral-Cloning-P3/blob/master/drive.py)).
 - **model.h5** : Contains a trained convolution neural network.
 - **README.md** : My write up about this project.
 - **video.py**: To generate a mp4 video file from the caputred autonomously drived car, provided by Udacity.
