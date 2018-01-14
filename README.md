@@ -95,4 +95,4 @@ The final model architecture is shown above in "1. An appropriate model architec
 
 To have more data, I simply drove the car in the simulator for more than 10 minutes, collecting 5222 images from the first track. 
 
-All these data was used for training the model with three epochs. The data was shuffled randomly. After this training, the car was driving down the road all the time on the [first](run1/video.mp4) track. 
+All these data was used for training the model with three epochs. The data was shuffled randomly. After this training, the car was driving down the road all the time on the [first](run1/output_video.mp4) track. 
